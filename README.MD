@@ -1,4 +1,6 @@
-# Proyecto Final - Geoinformación en la Web
+# Proyecto Final: Visor web para el reporte de fenómenos naturales y rutas de atención médicas para posibles víctimas en Sevilla, Valle del Cauca
+
+# Curso: Geoinformación en la Web
 
 Autores: 
 
