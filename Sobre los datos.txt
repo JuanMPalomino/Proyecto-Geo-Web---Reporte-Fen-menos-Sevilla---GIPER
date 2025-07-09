@@ -1,4 +1,6 @@
-Los datos geográficos utilizados para el desarrollo y la realización del visor ocupan gran volumen de almacenamiento, más que el permitido por GitHub. Si desea estos datos, comuníquese con nosotros para obtenerlos. Se los brindaremos en la brevedad de lo posible.
+Los datos geográficos utilizados para el desarrollo y la realización del visor ocupan gran volumen de almacenamiento, más que el permitido por GitHub. Es la única carpeta del visor que no se incluye en el archivo comprimido adjunto en este repositorio.
+
+Si desea estos datos, comuníquese con nosotros para obtenerlos. Se los brindaremos en la brevedad de lo posible.
 
 Correos de contacto:
 
