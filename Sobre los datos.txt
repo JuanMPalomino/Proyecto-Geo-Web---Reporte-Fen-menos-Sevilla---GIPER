@@ -1,6 +1,6 @@
-Los datos utilizados abarcan excesivo espacio, más que el permitido por la plataforma. Si los desea, comuníquese con nosotros para obtenerlos.
+Los datos geográficos utilizados para el desarrollo y la realización del visor ocupan gran volumen de almacenamiento, más que el permitido por GitHub. Si desea estos datos, comuníquese con nosotros para obtenerlos. Se los brindaremos en la brevedad de lo posible.
 
-Correos de contacto
+Correos de contacto:
 
 palomino.juan@correounivalle.edu.co
 jhuliana.duque@correounivalle.edu.co
